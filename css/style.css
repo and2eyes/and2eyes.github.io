@@ -586,6 +586,10 @@ img {
 
 }
 
+.icon_section>h2 {
+  margin-top: -50px;
+}
+
 
 .icon_section >div{
   padding-top: -20px;
